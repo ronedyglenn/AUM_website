@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Nov 2023 20:27:13 at https://themewagon.github.io/eduland/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://themewagon.github.io/eduland/# -O1 "C:\Users\HP1\Documents\Workspace\Battle\templateSchool" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:27:29	Error: 	"Not Found" (404) at link https://themewagon.github.io/eduland/images/favicon.png (from https://themewagon.github.io/eduland/)
+20:27:36	Error: 	"Not Found" (404) at link https://themewagon.github.io/eduland/about.html (from https://themewagon.github.io/eduland/)
+20:27:36	Error: 	"Not Found" (404) at link https://themewagon.github.io/eduland/course-single.html (from https://themewagon.github.io/eduland/)
+20:27:36	Error: 	"Not Found" (404) at link https://themewagon.github.io/eduland/event-single.html (from https://themewagon.github.io/eduland/)
+20:27:36	Error: 	"Not Found" (404) at link https://themewagon.github.io/eduland/js/gmaps.min.js (from https://themewagon.github.io/eduland/)
+20:27:36	Error: 	"Not Found" (404) at link https://themewagon.github.io/eduland/img/cbp-sprite.png (from https://themewagon.github.io/eduland/css/cube-portfolio.min.css)
+20:27:36	Error: 	"Not Found" (404) at link https://themewagon.github.io/eduland/css/owl.video.play.png (from https://themewagon.github.io/eduland/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 88 links scanned, 80 files written (11254931 bytes overall), 80 files updated [10051147 bytes received at 437006 bytes/sec], 2035851 bytes transferred using HTTP compression in 50 files, ratio 34%, 29.3 requests per connection
+(7 errors, 0 warnings, 0 messages)
